@@ -1,7 +1,10 @@
 /*
-Aim:
-Student name : Mantasha
-class: SE comps div A
+Aim: WAP to store and display student
+information of few students.
+Information like name, uin, cgpa.
+Student name : Mantasha shaikh
+class: SE comps div A */
+
 import java.util.Scanner;
 
 public class StudentTest {
